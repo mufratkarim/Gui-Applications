@@ -1,0 +1,14 @@
+Purchase Report
+---------------
+Bill Gates
+88-34 161St Street
+Jamaica, NY 11432
+
+Description                              Price   Quantity            Cost
+-----------                              -----   --------            ----
+Oneplus 7T                              430.99         50        21549.50
+Asus Zenfone 6                          835.99         80        66879.20
+Microsoft Surface Pro X                1399.99         50        69999.50
+WWE 2K20                                  2.00          1            2.00
+-----------                              -----   --------            ----
+Total                                                 181       158430.20

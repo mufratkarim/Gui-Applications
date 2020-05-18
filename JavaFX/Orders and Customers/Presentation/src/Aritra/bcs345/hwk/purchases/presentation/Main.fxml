@@ -1,0 +1,106 @@
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.event.*?>
+<?import javafx.fxml.*?>
+<?import javafx.collections.*?>
+<?import java.lang.String?>
+
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" 
+			fx:controller="Aritra.bcs345.hwk.purchases.presentation.PurchasesController" 
+			fx:id="rootAnchorPane">
+<children>
+	
+	<VBox fx:id="vBox" layoutX="10.0" layoutY="10.0" prefHeight="610.0" prefWidth="400.0">
+  		<MenuBar fx:id="menuBar">
+		   <menus>
+			<Menu text="File"> 
+				<items> 
+					<MenuItem text="Open..." onAction="#handleOpenAction"></MenuItem>
+				    <SeparatorMenuItem />
+				    <MenuItem text="Save As..." onAction="#handleSaveAsAction"></MenuItem>
+					<MenuItem text="Save Report..." onAction="#handleSaveReportAction"></MenuItem>
+					<SeparatorMenuItem />
+					<MenuItem text="Exit" onAction="#handleExitAction"></MenuItem>	
+				</items> 
+			</Menu>
+		   </menus>
+		   
+		   
+		</MenuBar>
+		
+		
+		<TabPane fx:id="tabPane">
+		   <tabs>
+		      <Tab fx:id="CustomerTab" text="Customer">
+				<VBox>
+				  <style>
+				    -fx-padding: 10;
+				  </style>
+					<HBox layoutX="10.0" layoutY="10.0" spacing="120">
+		            	<Label text="First Name" alignment="CENTER_LEFT" prefWidth="150.0"></Label>
+		            	<TextField fx:id="FirstNameTextArea" text="Jane" alignment="CENTER_LEFT" prefWidth="190.0"></TextField>
+		            </HBox>
+		            <Separator></Separator>
+		            <HBox layoutX="10.0" layoutY="10.0" spacing="120">
+		            	<Label text="Last Name" alignment="CENTER_LEFT" prefWidth="150.0"></Label>
+		            	<TextField fx:id="LastNameTextArea" text="Doe" alignment="CENTER_LEFT" prefWidth="190.0"></TextField>
+		            </HBox>
+		            <Separator></Separator>
+					<HBox layoutX="10.0" layoutY="10.0" spacing="120">
+		            	<Label text="Number" alignment="CENTER_LEFT" prefWidth="150.0"></Label>
+		            	<TextField fx:id="NumberTextArea" text="10" alignment="CENTER_LEFT" prefWidth="190.0"></TextField>
+		            </HBox>
+		            <Separator></Separator>
+		            <HBox layoutX="10.0" layoutY="10.0" spacing="120">
+		            	<Label text="Street" alignment="CENTER_LEFT" prefWidth="150.0"></Label>
+		            	<TextField fx:id="StreetTextArea" text="Broadway" alignment="CENTER_LEFT" prefWidth="190.0"></TextField>
+		            </HBox>
+		            <Separator></Separator>
+					<HBox layoutX="10.0" layoutY="10.0" spacing="120">
+		            	<Label text="City" alignment="CENTER_LEFT" prefWidth="150.0"></Label>
+		            	<TextField fx:id="CityTextArea" text="New York" alignment="CENTER_LEFT" prefWidth="190.0"></TextField>
+		            </HBox>
+		            <Separator></Separator>
+		            <HBox layoutX="10.0" layoutY="10.0" spacing="120">
+		            	<Label text="State" alignment="CENTER_LEFT" prefWidth="150.0"></Label>
+		            	<TextField fx:id="StateTextArea" text="NY" alignment="CENTER_LEFT" prefWidth="190.0"></TextField>
+		            </HBox>
+		            <Separator></Separator>
+					<HBox layoutX="10.0" layoutY="10.0" spacing="120">
+		            	<Label text="Zip" alignment="CENTER_LEFT" prefWidth="150.0"></Label>
+		            	<TextField fx:id="ZipTextArea" text="10001" alignment="CENTER_LEFT" prefWidth="190.0"></TextField>
+		            </HBox>	            
+		        </VBox>
+	 
+		      </Tab> 
+		      
+		      <Tab fx:id="PurchasesTab" text="Purchases">
+		      
+			     <VBox>
+					<ListView fx:id="listViewItems" onMouseClicked="#handleListViewItemsMouseClick">
+					   <items>
+					      <FXCollections fx:factory="observableArrayList">
+					         <String fx:value="2, Galaxy S7, $250.00"/>
+					         <String fx:value="3, Plastic, $30.00"/>
+					         <String fx:value="1, Lenovo thinkpad X1 Carbon, $2000.00"/>   
+					         <String fx:value="2, Galaxy S7, $250.00"/>
+					      </FXCollections>
+					   </items>
+					
+					</ListView>
+
+		         </VBox>
+	
+		      </Tab> 
+		   </tabs> 
+		</TabPane>
+	</VBox>
+	
+	
+</children>
+
+
+		
+
+</AnchorPane>

@@ -1,0 +1,15 @@
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\bin\Debug\Lab-MasterDetail.exe.config
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\bin\Debug\Lab-MasterDetail.exe
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\bin\Debug\Lab-MasterDetail.pdb
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\obj\Debug\Lab-MasterDetail.csprojAssemblyReference.cache
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\obj\Debug\MainWindow.g.cs
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\obj\Debug\App.g.cs
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\obj\Debug\Lab-MasterDetail_MarkupCompile.cache
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\obj\Debug\Lab-MasterDetail_MarkupCompile.lref
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\obj\Debug\MainWindow.baml
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\obj\Debug\Lab-MasterDetail.g.resources
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\obj\Debug\Lab_MasterDetail.Properties.Resources.resources
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\obj\Debug\Lab-MasterDetail.csproj.GenerateResource.cache
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\obj\Debug\Lab-MasterDetail.exe
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\obj\Debug\Lab-MasterDetail.pdb
+C:\Users\mufra\source\repos\Lab-MasterDetail\Lab-MasterDetail\obj\Debug\GeneratedInternalTypeHelper.g.cs

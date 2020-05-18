@@ -1,0 +1,14 @@
+C:\Users\mufra\source\repos\Exam 3\Exam 3\bin\Debug\Exam 3.exe.config
+C:\Users\mufra\source\repos\Exam 3\Exam 3\bin\Debug\Exam 3.exe
+C:\Users\mufra\source\repos\Exam 3\Exam 3\bin\Debug\Exam 3.pdb
+C:\Users\mufra\source\repos\Exam 3\Exam 3\obj\Debug\Exam 3.csprojAssemblyReference.cache
+C:\Users\mufra\source\repos\Exam 3\Exam 3\obj\Debug\MainWindow.g.cs
+C:\Users\mufra\source\repos\Exam 3\Exam 3\obj\Debug\App.g.cs
+C:\Users\mufra\source\repos\Exam 3\Exam 3\obj\Debug\Exam 3_MarkupCompile.cache
+C:\Users\mufra\source\repos\Exam 3\Exam 3\obj\Debug\Exam 3_MarkupCompile.lref
+C:\Users\mufra\source\repos\Exam 3\Exam 3\obj\Debug\MainWindow.baml
+C:\Users\mufra\source\repos\Exam 3\Exam 3\obj\Debug\Exam 3.g.resources
+C:\Users\mufra\source\repos\Exam 3\Exam 3\obj\Debug\Exam_3.Properties.Resources.resources
+C:\Users\mufra\source\repos\Exam 3\Exam 3\obj\Debug\Exam 3.csproj.GenerateResource.cache
+C:\Users\mufra\source\repos\Exam 3\Exam 3\obj\Debug\Exam 3.exe
+C:\Users\mufra\source\repos\Exam 3\Exam 3\obj\Debug\Exam 3.pdb

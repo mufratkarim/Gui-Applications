@@ -1,0 +1,39 @@
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.collections.*?>
+<?import java.lang.String?>
+
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" 
+      		fx:controller="lab.LabController"
+ 			fx:id="rootAnchorPane">
+ 			
+ 	<VBox>
+ 		<ListView fx:id="listVieweNumbers" onMouseClicked="#handleListViewItemsMouseClick">
+
+		   <items>
+		      <FXCollections fx:factory="observableArrayList">
+		         <String fx:value="Westworld"/>
+		         <String fx:value="Gotham"/>
+		         <String fx:value="Breaking Bad"/>
+		      </FXCollections>
+		   </items>
+		
+		</ListView>
+ 		
+ 		<Label>New Show Name: </Label>
+ 		<TextField fx:id="showNameTextField"></TextField>
+ 		
+ 		<Button fx:id="addShowButton" text="Add Show" onAction="#handleButtonAction"
+ 		></Button>
+ 		
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	</VBox>
+
+
+</AnchorPane>

@@ -1,0 +1,14 @@
+C:\Users\mufra\source\repos\Lab-ListView\Lab-ListView\bin\Debug\Lab-ListView.exe.config
+C:\Users\mufra\source\repos\Lab-ListView\Lab-ListView\bin\Debug\Lab-ListView.exe
+C:\Users\mufra\source\repos\Lab-ListView\Lab-ListView\bin\Debug\Lab-ListView.pdb
+C:\Users\mufra\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.csprojAssemblyReference.cache
+C:\Users\mufra\source\repos\Lab-ListView\Lab-ListView\obj\Debug\MainWindow.g.cs
+C:\Users\mufra\source\repos\Lab-ListView\Lab-ListView\obj\Debug\App.g.cs
+C:\Users\mufra\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView_MarkupCompile.cache
+C:\Users\mufra\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView_MarkupCompile.lref
+C:\Users\mufra\source\repos\Lab-ListView\Lab-ListView\obj\Debug\MainWindow.baml
+C:\Users\mufra\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.g.resources
+C:\Users\mufra\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab_ListView.Properties.Resources.resources
+C:\Users\mufra\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.csproj.GenerateResource.cache
+C:\Users\mufra\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.exe
+C:\Users\mufra\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.pdb

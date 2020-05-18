@@ -1,0 +1,50 @@
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.ComboBox?>
+<?import java.lang.String?> 
+<?import javafx.collections.FXCollections?>
+<?import javafx.scene.control.MenuBar?>
+
+
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="labButtons.ColorController" fx:id="rootAnchorPane">
+  <children>
+  	<VBox>
+  		<MenuBar>
+		   <menus>
+		        <Menu text="Colors"> 
+				   <items> 
+				      <MenuItem text="Red" onAction="#handleRedButtonAction"/>
+				      <MenuItem text="Green" onAction="#handleGreenButtonAction"/>
+				      <MenuItem text="Yellow" onAction="#handleyellowButtonAction"/>
+				   </items> 
+				</Menu>
+		   </menus>
+		</MenuBar>
+  		
+		<Button fx:id="yellowButton" onAction="#handleyellowButtonAction">Yellow</Button>
+		<Button fx:id="redButton" onAction="#handleRedButtonAction">Red</Button>
+		<Button fx:id="greenButton" onAction="#handleGreenButtonAction">Green</Button>
+		
+		<ComboBox fx:id="colorComboBox" onAction="#handleColorComboBoxAction">
+   			<items> 
+     			<FXCollections fx:factory="observableArrayList">
+         			<String fx:value="Red" /> 
+         			<String fx:value="Yellow" /> 
+         			<String fx:value="Green" /> 
+      			</FXCollections> 
+   			</items>
+   			
+   			<value> 
+      			<String fx:value="Colors" /> 
+   			</value> 
+   			
+
+
+		</ComboBox>
+		
+		
+		
+	</VBox>
+  </children>
+</AnchorPane>

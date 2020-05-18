@@ -1,0 +1,14 @@
+C:\Users\mufra\source\repos\Final Exam Project\Final Exam Project\bin\Debug\Final Exam Project.exe.config
+C:\Users\mufra\source\repos\Final Exam Project\Final Exam Project\bin\Debug\Final Exam Project.exe
+C:\Users\mufra\source\repos\Final Exam Project\Final Exam Project\bin\Debug\Final Exam Project.pdb
+C:\Users\mufra\source\repos\Final Exam Project\Final Exam Project\obj\Debug\Final Exam Project.csprojAssemblyReference.cache
+C:\Users\mufra\source\repos\Final Exam Project\Final Exam Project\obj\Debug\MainWindow.g.cs
+C:\Users\mufra\source\repos\Final Exam Project\Final Exam Project\obj\Debug\App.g.cs
+C:\Users\mufra\source\repos\Final Exam Project\Final Exam Project\obj\Debug\Final Exam Project_MarkupCompile.cache
+C:\Users\mufra\source\repos\Final Exam Project\Final Exam Project\obj\Debug\Final Exam Project_MarkupCompile.lref
+C:\Users\mufra\source\repos\Final Exam Project\Final Exam Project\obj\Debug\MainWindow.baml
+C:\Users\mufra\source\repos\Final Exam Project\Final Exam Project\obj\Debug\Final Exam Project.g.resources
+C:\Users\mufra\source\repos\Final Exam Project\Final Exam Project\obj\Debug\Final_Exam_Project.Properties.Resources.resources
+C:\Users\mufra\source\repos\Final Exam Project\Final Exam Project\obj\Debug\Final Exam Project.csproj.GenerateResource.cache
+C:\Users\mufra\source\repos\Final Exam Project\Final Exam Project\obj\Debug\Final Exam Project.exe
+C:\Users\mufra\source\repos\Final Exam Project\Final Exam Project\obj\Debug\Final Exam Project.pdb

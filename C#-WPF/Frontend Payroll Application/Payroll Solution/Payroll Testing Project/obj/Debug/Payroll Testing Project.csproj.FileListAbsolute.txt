@@ -1,0 +1,15 @@
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\bin\Debug\Payroll Testing Project.dll
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\bin\Debug\Payroll Testing Project.pdb
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\bin\Debug\Payroll Solution.dll
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\bin\Debug\Payroll Solution.pdb
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\obj\Debug\Payroll Testing Project.csprojAssemblyReference.cache
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\obj\Debug\Payroll Testing Project.csproj.CopyComplete
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\obj\Debug\Payroll Testing Project.dll
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Testing Project\obj\Debug\Payroll Testing Project.pdb

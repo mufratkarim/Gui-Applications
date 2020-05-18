@@ -1,0 +1,14 @@
+C:\Users\mufra\source\repos\LabDBInsert\LabDBInsert\bin\Debug\LabDBInsert.exe.config
+C:\Users\mufra\source\repos\LabDBInsert\LabDBInsert\bin\Debug\LabDBInsert.exe
+C:\Users\mufra\source\repos\LabDBInsert\LabDBInsert\bin\Debug\LabDBInsert.pdb
+C:\Users\mufra\source\repos\LabDBInsert\LabDBInsert\obj\Debug\LabDBInsert.csprojAssemblyReference.cache
+C:\Users\mufra\source\repos\LabDBInsert\LabDBInsert\obj\Debug\MainWindow.g.cs
+C:\Users\mufra\source\repos\LabDBInsert\LabDBInsert\obj\Debug\App.g.cs
+C:\Users\mufra\source\repos\LabDBInsert\LabDBInsert\obj\Debug\LabDBInsert_MarkupCompile.cache
+C:\Users\mufra\source\repos\LabDBInsert\LabDBInsert\obj\Debug\LabDBInsert_MarkupCompile.lref
+C:\Users\mufra\source\repos\LabDBInsert\LabDBInsert\obj\Debug\MainWindow.baml
+C:\Users\mufra\source\repos\LabDBInsert\LabDBInsert\obj\Debug\LabDBInsert.g.resources
+C:\Users\mufra\source\repos\LabDBInsert\LabDBInsert\obj\Debug\LabDBInsert.Properties.Resources.resources
+C:\Users\mufra\source\repos\LabDBInsert\LabDBInsert\obj\Debug\LabDBInsert.csproj.GenerateResource.cache
+C:\Users\mufra\source\repos\LabDBInsert\LabDBInsert\obj\Debug\LabDBInsert.exe
+C:\Users\mufra\source\repos\LabDBInsert\LabDBInsert\obj\Debug\LabDBInsert.pdb

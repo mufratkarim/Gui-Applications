@@ -1,0 +1,5 @@
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Solution\bin\Debug\Payroll Solution.dll
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Solution\bin\Debug\Payroll Solution.pdb
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Solution\obj\Debug\Payroll Project.csprojAssemblyReference.cache
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Solution\obj\Debug\Payroll Solution.dll
+C:\Users\mufra\source\repos\Payroll Solution\Payroll Solution\obj\Debug\Payroll Solution.pdb

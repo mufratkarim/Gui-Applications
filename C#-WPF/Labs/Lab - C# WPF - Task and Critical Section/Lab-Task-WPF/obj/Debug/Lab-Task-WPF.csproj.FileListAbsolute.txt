@@ -1,0 +1,14 @@
+C:\Users\mufra\source\repos\Lab-Task-WPF\Lab-Task-WPF\bin\Debug\Lab-Task-WPF.exe.config
+C:\Users\mufra\source\repos\Lab-Task-WPF\Lab-Task-WPF\bin\Debug\Lab-Task-WPF.exe
+C:\Users\mufra\source\repos\Lab-Task-WPF\Lab-Task-WPF\bin\Debug\Lab-Task-WPF.pdb
+C:\Users\mufra\source\repos\Lab-Task-WPF\Lab-Task-WPF\obj\Debug\Lab-Task-WPF.csprojAssemblyReference.cache
+C:\Users\mufra\source\repos\Lab-Task-WPF\Lab-Task-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\mufra\source\repos\Lab-Task-WPF\Lab-Task-WPF\obj\Debug\App.g.cs
+C:\Users\mufra\source\repos\Lab-Task-WPF\Lab-Task-WPF\obj\Debug\Lab-Task-WPF_MarkupCompile.cache
+C:\Users\mufra\source\repos\Lab-Task-WPF\Lab-Task-WPF\obj\Debug\Lab-Task-WPF_MarkupCompile.lref
+C:\Users\mufra\source\repos\Lab-Task-WPF\Lab-Task-WPF\obj\Debug\MainWindow.baml
+C:\Users\mufra\source\repos\Lab-Task-WPF\Lab-Task-WPF\obj\Debug\Lab-Task-WPF.g.resources
+C:\Users\mufra\source\repos\Lab-Task-WPF\Lab-Task-WPF\obj\Debug\Lab_Task_WPF.Properties.Resources.resources
+C:\Users\mufra\source\repos\Lab-Task-WPF\Lab-Task-WPF\obj\Debug\Lab-Task-WPF.csproj.GenerateResource.cache
+C:\Users\mufra\source\repos\Lab-Task-WPF\Lab-Task-WPF\obj\Debug\Lab-Task-WPF.exe
+C:\Users\mufra\source\repos\Lab-Task-WPF\Lab-Task-WPF\obj\Debug\Lab-Task-WPF.pdb

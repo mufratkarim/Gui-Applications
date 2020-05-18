@@ -1,0 +1,17 @@
+[
+  {
+    "name": "butter",
+    "quantity": 3,
+    "unitofmeasurement": "tablespoons"
+  },
+  {
+    "name": "marshmallows",
+    "quantity": 10,
+    "unitofmeasurement": "ounces"
+  },
+  {
+    "name": "krispies",
+    "quantity": 6,
+    "unitofmeasurement": "cups"
+  }
+]

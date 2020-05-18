@@ -1,0 +1,55 @@
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+
+
+<AnchorPane fx:id="RootAnchorPane" 
+			xmlns:fx="http://javafx.com/fxml"
+			fx:controller="TabPane.TabPaneController" 
+ 			>
+
+
+<children>
+
+<TabPane>
+   <tabs> 
+      <Tab fx:id="MessagesTab" text="Messages">
+         <HBox>
+            <Label text="Enter your Message: " />
+            <TextArea fx:id="messagesTextArea"></TextArea>
+         </HBox>
+      </Tab> 
+      
+      <Tab fx:id="InputDataTab" text="Input Data"> 
+         <VBox>
+         	<HBox>
+            	<Label text="First Name: " />
+            	<TextArea fx:id="FirstNameTextArea"></TextArea>
+         	</HBox>
+         	         	
+         	<HBox>
+            	<Label text="Last Name: " />
+            	<TextArea fx:id="LastNameTextArea"></TextArea>
+         	</HBox>
+         	
+         	<Button fx:id="InputButton" onAction="#handleInputButtonAction">Input</Button>
+         	
+         </VBox>
+
+      </Tab> 
+   </tabs> 
+</TabPane>
+
+
+
+
+
+
+
+
+
+</children>
+
+
+
+
+</AnchorPane>
